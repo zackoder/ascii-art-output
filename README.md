@@ -1,7 +1,7 @@
 # asci-art /output
 
 ## this project used to store an ascci art in a file 
-## EX: go run main.go --output=<fileName.txt> "hello" standard
+## EX: go run main.go --output=<fileName.txt> "hello" (standard, shadow or thinkertoy)
 ## cat fileName.txt
 ```
  _              _   _          
@@ -13,4 +13,4 @@
                                
 
 ```
-## It is impossible to use a different syntax of ascii art.
+## or you can use the command go run main.go hello (standard, shadow or thinkertoy) and you will get hte same result in the terminal
